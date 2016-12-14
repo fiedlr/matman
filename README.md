@@ -5,8 +5,11 @@ A school project (an analysis of the [MatMat.cz dataset](https://github.com/adap
 
 **success rate** (item or student) = number of correct answers / number of all answers
 
-**faker** (student) = average response < general average and success rate > general success rate
-**under average** (student) = average response < general average and success rate < general success rate
-**over average** (student) = average response > general average and success rate > general success rate
-
 **difficulty** (item) = average error * response median / success rate
+
+
+**faker** (student) = average response < general average and success rate > general success rate
+
+**under average** (student) = average response < general average and success rate < general success rate
+
+**over average** (student) = average response > general average and success rate > general success rate
